@@ -1,0 +1,17 @@
+.center-container {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    height: 100vh;
+  }
+  
+img {
+    border-radius: 50px; 
+  }
+  
+
+  img {
+    width: 200pxpx; 
+    height: 200px; 
+  }
+  
